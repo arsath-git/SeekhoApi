@@ -12,6 +12,8 @@ Limitations:
 1) Api request taking more time to fetch data
 2) cast data not fount in json response 
 
+Note: In the app/release path you can find the apk file
+
 Note: I have tried my best to complete this assignment even though iam loaded with task in my current job
 
 thankyou
